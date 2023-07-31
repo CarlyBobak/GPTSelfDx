@@ -1,0 +1,18 @@
+Disease,Prevalence_USA,Percent Male,Mean Age,Age Variance,Symptoms,Scaled Prevalence
+Cold,0.116,0.5,30,15,"['Sneezing', 'Runny Nose', 'Itchy Eyes', 'Cough', 'Mild Sore Throat']",0.11583782704214103
+Flu,0.058,0.5,30,20,"['Fever', 'Cough', 'Sore Throat', 'Chills', 'Muscle Aches']",0.057918913521070516
+Asthma,0.046,0.5,20,15,"['Wheezing', 'Shortness of Breath', 'Chest Tightness', 'Trouble Sleeping', 'Coughing or Whistling Sound']",0.045935690033952474
+Hypertension,0.191,0.5,50,10,"['Headache', 'Shortness of Breath', 'Nosebleeds', 'Flushing', 'Dizziness']",0.19073297383662874
+Heart Disease,0.069,0.55,60,10,"['Chest Pain', 'Shortness of Breath', 'Fatigue', 'Swelling in Legs, Ankles, and Feet', 'Irregular Heartbeat']",0.06890353505092872
+Diabetes,0.058,0.52,50,10,"['Increased Thirst', 'Frequent Urination', 'Unexplained Weight Loss', 'Fatigue', 'Blurred Vision']",0.057918913521070516
+Anxiety,0.11,0.37,30,10,"['Excessive Worry', 'Restlessness', 'Fatigue', 'Irritability', 'Tense Muscles']",0.109846215298582
+Depression,0.098,0.4,30,10,"['Depressed Mood', 'Loss of Interest', 'Fatigue', 'Sleep Problems', 'Changes in Appetite']",0.09786299181146398
+Allergies,0.173,0.5,20,15,"['Sneezing', 'Runny Nose', 'Itchy Eyes', 'Shortness of Breath', 'Cough']",0.17275813860595168
+Breast Cancer,0.006,0.01,60,10,"['Lump in the Breast', 'Change in Breast Size', 'Change in Breast Shape', 'Skin Dimpling', 'Inverted Nipple']",0.005991611743559018
+Prostate Cancer,0.006,1.0,65,10,"['Trouble Urinating', 'Blood in Semen', 'Discomfort in the Pelvic Area', 'Erectile Dysfunction', 'Bone Pain']",0.005991611743559018
+Colon Cancer,0.006,0.5,60,10,"['Abdominal Pain', 'Blood in Stool', 'Change in Bowel Habits', 'Fatigue', 'Unintended Weight Loss']",0.005991611743559018
+IBD,0.006,0.5,30,10,"['Abdominal Pain', 'Diarrhea', 'Fatigue', 'Reduced Appetite', 'Fever']",0.005991611743559018
+Osteoarthritis,0.058,0.4,60,10,"['Joint Pain', 'Stiffness', 'Loss of Flexibility', 'Bone Tenderness', 'Swelling']",0.057918913521070516
+Cystic Fibrosis,0.0001,0.5,20,10,"['Persistent Coughing', 'Frequent Lung Infections', 'Wheezing', 'Fatigue', 'Poor Growth']",9.986019572598365e-05
+Tuberculosis,0.0001,0.5,40,20,"['Coughing', 'Chest Pain', 'Weight Loss', 'Fatigue', 'Night Sweats']",9.986019572598365e-05
+Scleroderma,0.0002,0.2,50,10,"['Hardened Skin', 'Swollen Fingers', 'Heartburn', 'Difficulty Swallowing', 'Joint Pain']",0.0001997203914519673
