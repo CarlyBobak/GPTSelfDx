@@ -225,6 +225,7 @@ f1_scores_table$ChatGPT_Clean_3_F1 <- sapply(f1_scores_table$Disease, function(d
 # Print the F1 scores table
 print(f1_scores_table)
 
+# ADDITIONAL CODE FOR ACCURACY TABLE (NOT INCLUDED IN PAPER)
 
 # Create a new data frame to store the accuracy results for all diseases
 accuracy_table <- data.frame(Disease = levels(as.factor(data$Official_DX)))
