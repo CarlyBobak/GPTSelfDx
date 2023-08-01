@@ -1,0 +1,301 @@
+,Patient ID,Age,Sex,Official_DX,Rater_DX_Clean,ChatGPT_Clean_1,ChatGPT_Clean_2,ChatGPT_Clean_3
+0,1,35,Female,Cold,Allergies,Allergies,Allergies,Allergies
+1,2,20,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+2,3,31,Male,Depression,Depression,Depression,Depression,Depression
+3,4,61,Male,Heart Disease,Heart Failure,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+4,5,34,Female,Depression,Depression,Depression,Depression,Depression
+5,6,50,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+6,7,26,Female,Anxiety Disorder,Fibromyalgia,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+7,8,19,Female,Cold,Allergies,Allergies,Allergies,Allergies
+8,9,17,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+9,10,25,Female,Cold,Flu,Allergies,Allergies,Allergies
+10,11,47,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+11,12,26,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+12,13,22,Male,Depression,Depression,Depression,Depression,Depression
+13,14,51,Female,Hypertension,Congestive Heart Failure,Hypertension,Hypertension,Hypertension
+14,15,22,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+15,16,25,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+16,17,59,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+17,18,27,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+18,19,47,Female,Hypertension,Congestive Heart Failure,Hypertension,Hypertension,Hypertension
+19,20,24,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+20,21,33,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+21,22,30,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+22,23,31,Male,Cold,Allergies,Allergies,Allergies,Allergies
+23,24,47,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+24,25,44,Male,Hypertension,Arrhythmia,Hypertension,Hypertension,Hypertension
+25,26,17,Male,Allergies,Allergies,Allergies,Common Cold,Allergies
+26,27,51,Female,Hypertension,Anemia,Hypertension,Hypertension,Hypertension
+27,28,51,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+28,29,19,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+29,30,30,Male,Flu,Common Cold,Flu,Flu,Flu
+30,31,46,Female,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+31,32,33,Male,Depression,Depression,Depression,Depression,Depression
+32,33,25,Male,Asthma,Asthma,Asthma,Asthma,Asthma
+33,34,45,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+34,35,57,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+35,36,32,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+36,37,36,Female,Anxiety Disorder,Depression,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+37,38,47,Female,Hypertension,Arrhythmia,Menopause,Menopause,Migraine
+38,39,60,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+39,40,28,Female,Depression,Depression,Depression,Depression,Depression
+40,41,15,Female,Allergies,Asthma,Allergies,Allergies,Allergies
+41,42,26,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+42,43,46,Male,Hypertension,Heart Disease,Migraine,Hypertension,Migraine
+43,44,31,Male,Cold,Allergies,Allergies,Allergies,Allergies
+44,45,20,Female,Flu,Flu,Flu,Flu,Flu
+45,46,62,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+46,47,52,Female,Hypertension,Anxiety Disorder,Menopause,Menopause,Menopause
+47,48,33,Male,Depression,Depression,Depression,Depression,Depression
+48,49,33,Female,Flu,Flu,Common Cold,Common Cold,Allergies
+49,50,59,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+50,51,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+51,52,23,Male,Depression,Depression,Depression,Depression,Depression
+52,53,17,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+53,54,26,Male,Flu,Flu,Common Cold,Common Cold,Common Cold
+54,55,63,Female,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer
+55,56,28,Female,Cold,Common Cold,Allergies,Allergies,Allergies
+56,57,48,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+57,58,24,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+58,59,59,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+59,60,66,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+60,61,34,Female,Cold,Allergies,Allergies,Allergies,Allergies
+61,62,60,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+62,63,23,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+63,64,59,Male,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+64,65,28,Female,Depression,Depression,Depression,Depression,Depression
+65,66,24,Female,Flu,Common Cold,Common Cold,Common Cold,Common Cold
+66,67,54,Female,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer
+67,68,22,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+68,69,22,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+69,70,63,Male,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+70,71,15,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+71,72,47,Female,Hypertension,Neuroendocrine tumor,Hypertension,Hypertension,Hypertension
+72,73,27,Female,Depression,Depression,Depression,Depression,Depression
+73,74,29,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+74,75,29,Male,Anxiety Disorder,Fibromyalgia,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+75,76,66,Female,Heart Disease,Pulmonary Edema,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+76,77,23,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+77,78,29,Male,Cold,Allergies,Allergies,Allergies,Allergies
+78,79,57,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+79,80,29,Female,Flu,Flu,Flu,Flu,Flu
+80,81,28,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+81,82,63,Female,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer
+82,83,36,Female,Depression,Depression,Depression,Depression,Depression
+83,84,54,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+84,85,57,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+85,86,49,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+86,87,53,Female,Hypertension,Heart Disease,Hypertension,Hypertension,Hypertension
+87,88,29,Male,IBD,Flu,Gastroenteritis,Gastroenteritis,Gastroenteritis
+88,89,33,Female,Depression,Depression,Depression,Depression,Depression
+89,90,65,Male,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+90,91,59,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+91,92,27,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+92,93,61,Male,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+93,94,29,Female,Depression,Depression,Depression,Depression,Depression
+94,95,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+95,96,58,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+96,97,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+97,98,37,Male,Depression,Depression,Depression,Depression,Depression
+98,99,31,Female,Depression,Depression,Depression,Depression,Depression
+99,100,49,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+100,101,61,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+101,102,31,Female,Cold,Allergies,Allergies,Allergies,Allergies
+102,103,28,Female,Depression,Depression,Depression,Depression,Depression
+103,104,54,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+104,105,32,Female,Depression,Depression,Depression,Depression,Depression
+105,106,60,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+106,107,20,Female,Allergies,Common Cold,Allergies,Allergies,Allergies
+107,108,46,Female,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+108,109,27,Female,Cold,Flu,Common Cold,Common Cold,Common Cold
+109,110,26,Female,Cold,Allergies,Allergies,Allergies,Allergies
+110,111,31,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+111,112,33,Male,IBD,Gastroenteritis,Gastroenteritis,Gastroenteritis,Appendicitis
+112,113,36,Female,Cold,Common Cold,Allergies,Allergies,Allergies
+113,114,20,Female,Cold,Allergies,Allergies,Allergies,Allergies
+114,115,50,Male,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+115,116,62,Male,Prostate Cancer,Prostate Issues,Prostate Cancer,Prostate Cancer,Prostate Cancer
+116,117,11,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+117,118,28,Male,Depression,Depression,Depression,Depression,Depression
+118,119,36,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+119,120,57,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+120,121,32,Male,Cold,Common Cold,Allergies,Allergies,Allergies
+121,122,18,Male,Asthma,Asthma,Asthma,Asthma,Asthma
+122,123,37,Male,Cold,Allergies,Allergies,Allergies,Allergies
+123,124,22,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+124,125,29,Female,Depression,Depression,Depression,Depression,Depression
+125,126,19,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+126,127,34,Female,Depression,Depression,Depression,Depression,Depression
+127,128,60,Female,Heart Disease,Heart Failure,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+128,129,48,Male,Diabetes,High Blood Sugar,Diabetes,Diabetes,Diabetes
+129,130,31,Female,Depression,Depression,Depression,Depression,Depression
+130,131,30,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+131,132,58,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+132,133,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+133,134,50,Female,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+134,135,46,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+135,136,62,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+136,137,55,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+137,138,14,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+138,139,54,Male,Diabetes,High Blood Sugar,Diabetes,Diabetes,Diabetes
+139,140,45,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+140,141,22,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+141,142,35,Male,Flu,Flu,Flu,Flu,Flu
+142,143,54,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+143,144,48,Female,Hypertension,Anemia,Hypertension,Hypertension,Hypertension
+144,145,34,Male,Flu,Flu,Flu,Flu,Flu
+145,146,16,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+146,147,63,Male,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+147,148,29,Female,Cold,Allergies,Allergies,Allergies,Allergies
+148,149,29,Female,Anxiety Disorder,Fibromyalgia,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+149,150,31,Female,Depression,Depression,Depression,Depression,Depression
+150,151,30,Male,Cold,Common Cold,Common Cold,Common Cold,Common Cold
+151,152,20,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+152,153,50,Female,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+153,154,51,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+154,155,49,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+155,156,48,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+156,157,59,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+157,158,32,Male,Cold,Allergies,Allergies,Allergies,Allergies
+158,159,30,Male,Depression,Depression,Depression,Depression,Depression
+159,160,26,Male,Flu,Flu,Flu,Flu,Flu
+160,161,34,Male,Flu,Common Cold,Common Cold,Common Cold,Common Cold
+161,162,63,Male,Heart Disease,Myocarditis,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+162,163,57,Female,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer,Breast Cancer
+163,164,23,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+164,165,29,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+165,166,28,Male,Flu,Flu,Common Cold,Common Cold,Common Cold
+166,167,22,Female,Asthma,Asthma,Asthma,Asthma,Asthma
+167,168,25,Male,Cold,Common Cold,Common Cold,Common Cold,Common Cold
+168,169,35,Female,Depression,Depression,Depression,Depression,Depression
+169,170,27,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+170,171,65,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+171,172,18,Female,Asthma,Asthma,Asthma,Asthma,Asthma
+172,173,50,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+173,174,22,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+174,175,26,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+175,176,35,Male,Depression,Depression,Depression,Depression,Depression
+176,177,51,Male,Hypertension,Polycythemia vera,Hypertension,Hypertension,Hypertension
+177,178,31,Female,Depression,Depression,Depression,Depression,Depression
+178,179,61,Male,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+179,180,30,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+180,181,32,Male,Depression,Depression,Depression,Depression,Depression
+181,182,37,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+182,183,22,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+183,184,26,Female,Cold,Allergies,Allergies,Allergies,Allergies
+184,185,23,Female,Flu,Common Cold,Common Cold,Common Cold,Common Cold
+185,186,28,Male,Cold,Allergies,Allergies,Allergies,Allergies
+186,187,11,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+187,188,46,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+188,189,33,Male,Flu,Flu,Flu,Flu,Flu
+189,190,16,Male,Asthma,Asthma,Asthma,Asthma,Asthma
+190,191,58,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+191,192,30,Male,Depression,Depression,Depression,Depression,Depression
+192,193,27,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+193,194,33,Female,Depression,Depression,Depression,Depression,Depression
+194,195,57,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+195,196,50,Female,Hypertension,Hypoglycemia,Menopause,Migraine,Menopause
+196,197,49,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+197,198,31,Female,Depression,Depression,Depression,Depression,Depression
+198,199,29,Male,Cold,Allergies,Allergies,Allergies,Allergies
+199,200,28,Female,Cold,Allergies,Allergies,Allergies,Allergies
+200,201,48,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+201,202,32,Male,Depression,Depression,Depression,Depression,Depression
+202,203,51,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+203,204,34,Male,Cold,Allergies,Allergies,Allergies,Allergies
+204,205,20,Male,Allergies,Asthma,Allergies,Allergies,Allergies
+205,206,47,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+206,207,51,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+207,208,48,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+208,209,24,Female,Anxiety Disorder,Depression,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+209,210,20,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+210,211,28,Male,Flu,Flu,Flu,Flu,Flu
+211,212,33,Female,Depression,Depression,Depression,Depression,Depression
+212,213,18,Female,Allergies,Common Cold,Allergies,Allergies,Allergies
+213,214,36,Female,Cold,Allergies,Allergies,Allergies,Allergies
+214,215,15,Male,Allergies,Asthma,Allergies,Allergies,Allergies
+215,216,13,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+216,217,27,Female,Depression,Anxiety Disorder,Depression,Depression,Depression
+217,218,20,Male,Flu,Flu,Common Cold,Common Cold,Common Cold
+218,219,17,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+219,220,58,Male,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+220,221,51,Male,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+221,222,22,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+222,223,16,Male,Flu,Flu,Common Cold,Common Cold,Common Cold
+223,224,17,Female,Asthma,Asthma,Asthma,Asthma,Asthma
+224,225,12,Male,Allergies,Asthma,Allergies,Allergies,Allergies
+225,226,60,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+226,227,23,Female,Depression,Depression,Depression,Depression,Depression
+227,228,11,Female,Allergies,Common Cold,Allergies,Allergies,Allergies
+228,229,25,Female,Depression,Depression,Depression,Depression,Depression
+229,230,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+230,231,29,Female,Depression,Depression,Depression,Depression,Depression
+231,232,49,Male,Hypertension,Anemia,Migraine,Migraine,Migraine
+232,233,30,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+233,234,39,Female,Cold,Allergies,Allergies,Allergies,Allergies
+234,235,50,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+235,236,17,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+236,237,28,Male,Depression,Depression,Depression,Depression,Depression
+237,238,28,Female,Cold,Common Cold,Allergies,Allergies,Allergies
+238,239,45,Male,Hypertension,Epistaxis,Hypertension,Hypertension,Hypertension
+239,240,31,Female,Depression,Depression,Depression,Depression,Depression
+240,241,18,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+241,242,60,Female,Heart Disease,Heart Failure,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+242,243,34,Female,Cold,Allergies,Allergies,Allergies,Allergies
+243,244,27,Male,Cold,Allergies,Allergies,Allergies,Allergies
+244,245,48,Male,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+245,246,24,Male,Asthma,Asthma,Asthma,Asthma,Asthma
+246,247,16,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+247,248,34,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+248,249,34,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+249,250,32,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+250,251,23,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+251,252,48,Female,Hypertension,Neuroendocrine tumor,Hypertension,Hypertension,Hypertension
+252,253,30,Female,Cold,Allergies,Allergies,Allergies,Allergies
+253,254,27,Female,Depression,Depression,Depression,Depression,Depression
+254,255,37,Male,Flu,Flu,Flu,Flu,Common Cold
+255,256,33,Female,Cold,Common Cold,Common Cold,Common Cold,Common Cold
+256,257,26,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+257,258,28,Male,Depression,Depression,Depression,Depression,Depression
+258,259,50,Female,Hypertension,Cluster Headache,Hypertension,Hypertension,Hypertension
+259,260,28,Female,Cold,Allergies,Allergies,Allergies,Allergies
+260,261,53,Male,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+261,262,30,Female,Depression,Depression,Depression,Depression,Depression
+262,263,55,Female,Heart Disease,Heart Disease,Congestive Heart Failure,Congestive Heart Failure,Congestive Heart Failure
+263,264,15,Female,Asthma,Asthma,Asthma,Asthma,Asthma
+264,265,44,Female,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+265,266,22,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+266,267,21,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+267,268,23,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+268,269,28,Female,Cold,Allergies,Allergies,Allergies,Allergies
+269,270,49,Female,Hypertension,Hypertension,Hypertension,Hypertension,Hypertension
+270,271,30,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+271,272,23,Female,Cold,Allergies,Allergies,Allergies,Allergies
+272,273,62,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+273,274,30,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+274,275,54,Male,Hypertension,Migraine,Hypertension,Hypertension,Hypertension
+275,276,28,Female,Cold,Allergies,Allergies,Allergies,Allergies
+276,277,34,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+277,278,59,Female,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+278,279,33,Male,IBD,Gastroenteritis,Gastroenteritis,Gastroenteritis,Gastroenteritis
+279,280,33,Male,Flu,Flu,Flu,Flu,Flu
+280,281,31,Female,Depression,Depression,Depression,Depression,Depression
+281,282,33,Male,Cold,Allergies,Allergies,Allergies,Allergies
+282,283,36,Male,Cold,Allergies,Allergies,Allergies,Allergies
+283,284,16,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+284,285,21,Female,Allergies,Asthma,Allergies,Allergies,Allergies
+285,286,64,Male,Prostate Cancer,Prostate Issues,Prostate Cancer,Prostate Cancer,Prostate Cancer
+286,287,50,Female,Diabetes,Diabetes,Diabetes,Diabetes,Diabetes
+287,288,20,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+288,289,20,Male,Allergies,Allergies,Allergies,Allergies,Allergies
+289,290,29,Female,Depression,Depression,Depression,Depression,Depression
+290,291,29,Male,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+291,292,19,Female,Allergies,Allergies,Allergies,Allergies,Allergies
+292,293,30,Female,Cold,Allergies,Allergies,Allergies,Allergies
+293,294,60,Male,Arthritis,Arthritis,Arthritis,Arthritis,Arthritis
+294,295,31,Female,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder,Anxiety Disorder
+295,296,36,Female,Flu,Flu,Common Cold,Common Cold,Common Cold
+296,297,35,Female,Cold,Allergies,Allergies,Allergies,Allergies
+297,298,32,Male,Flu,Flu,Flu,Flu,Flu
+298,299,30,Female,Depression,Depression,Depression,Depression,Depression
+299,300,30,Female,Depression,Depression,Depression,Depression,Depression
